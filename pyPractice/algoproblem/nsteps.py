@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 
-
+# 1,2,3 step   N ladders
 def n_steps(n):
     if n <= 0:
         return 0

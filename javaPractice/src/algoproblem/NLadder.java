@@ -2,7 +2,7 @@ package algoproblem;
 
 /**
  * Created by Administrator on 2018/9/14.
- * @apiNote  N  1,2,3  上楼梯的所有可能情况
+ * @apiNote  N 个楼梯 一次可以上1,2,3  上楼梯的所有可能情况
  */
 public class NLadder {
     public static void main(String[] args) {

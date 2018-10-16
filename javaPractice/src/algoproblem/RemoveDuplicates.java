@@ -17,7 +17,6 @@ public class RemoveDuplicates {
         removeDuplicates(new int[]{0,0,1,1,1,2,2,3,3,4});
     }
     public static int removeDuplicates(int[] nums){
-
         return solution1(nums);
     }
 
@@ -32,5 +31,15 @@ public class RemoveDuplicates {
             }
         }
         return map.size();
+    }
+    public static int solution2(int[] nums){
+        int tempIndex=0;
+        for(int j=1;j<nums.length;j++){
+            if(nums[tempIndex] != nums[j]){
+                tempIndex++;
+                nums[tempIndex] = nums[j];
+            }
+        }
+        return tempIndex+1;
     }
 }

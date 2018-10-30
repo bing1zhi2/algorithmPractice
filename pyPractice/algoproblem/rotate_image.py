@@ -39,6 +39,13 @@ rotate the input matrix in-place such that it becomes:
 ]
 '''
 def rotate2(matrix):
+    a = matrix[::-1]
+    print('a',a)
+    b = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+    b[:] = b[::-1]
+    print(b)
+
+    print(matrix[::-1])
     matrix[:] = zip(*matrix[::-1])
 
 def rotate( matrix):
@@ -79,5 +86,5 @@ matrix = [[1,2,3],
   [4,5,6],
   [7,8,9]]
 
-rotate(matrix)
+rotate2(matrix)
 print(matrix)

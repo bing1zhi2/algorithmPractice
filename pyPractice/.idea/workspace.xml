@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f8e37e1-9dd2-469f-a6b0-6a3cd8a2a068" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algoproblem/test_bytes.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/practice/test_modulus.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/practice/testaddlist.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/practice/thrity2threeHu.py" />
       <change beforePath="$PROJECT_DIR$/../javaPractice/.idea/misc.xml" afterPath="$PROJECT_DIR$/../javaPractice/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/../javaPractice/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../javaPractice/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/../javaPractice/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../javaPractice/.idea/workspace.xml" />
@@ -14,7 +9,7 @@
       <change beforePath="$PROJECT_DIR$/../javaPractice/out/production/javaPractice/algoproblem/NLadder.class" afterPath="$PROJECT_DIR$/../javaPractice/out/production/javaPractice/algoproblem/NLadder.class" />
       <change beforePath="$PROJECT_DIR$/../javaPractice/src/algoproblem/LongestSubstringWithoutRepeat.java" afterPath="$PROJECT_DIR$/../javaPractice/src/algoproblem/LongestSubstringWithoutRepeat.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/practice/testos.py" afterPath="$PROJECT_DIR$/practice/testos.py" />
+      <change beforePath="$PROJECT_DIR$/practice/testaddlist.py" afterPath="$PROJECT_DIR$/practice/testaddlist.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -75,11 +70,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testaddlist.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="testaddlist.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/practice/testaddlist.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="210">
+              <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -95,11 +90,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_bytes.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_bytes.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algoproblem/test_bytes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="540">
+              <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -144,9 +139,9 @@
         <option value="$PROJECT_DIR$/practice/test_modulus.py" />
         <option value="$PROJECT_DIR$/algoproblem/add_two_numbers.py" />
         <option value="$PROJECT_DIR$/practice/thrity2threeHu.py" />
-        <option value="$PROJECT_DIR$/practice/testaddlist.py" />
         <option value="$PROJECT_DIR$/practice/testos.py" />
         <option value="$PROJECT_DIR$/algoproblem/test_bytes.py" />
+        <option value="$PROJECT_DIR$/practice/testaddlist.py" />
       </list>
     </option>
   </component>
@@ -172,7 +167,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -194,7 +189,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -213,7 +208,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test_bytes">
+  <component name="RunManager" selected="Python.testaddlist">
     <configuration name="test_bytes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -313,9 +308,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.test_bytes" />
-        <item index="1" class="java.lang.String" itemvalue="Python.testos" />
-        <item index="2" class="java.lang.String" itemvalue="Python.testaddlist" />
+        <item index="0" class="java.lang.String" itemvalue="Python.testaddlist" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test_bytes" />
+        <item index="2" class="java.lang.String" itemvalue="Python.testos" />
         <item index="3" class="java.lang.String" itemvalue="Python.thrity2threeHu" />
         <item index="4" class="java.lang.String" itemvalue="Python.test_modulus" />
       </list>
@@ -342,13 +337,20 @@
       <option name="project" value="LOCAL" />
       <updated>1541657664745</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add two numbers &#10;// 整除">
+      <created>1545628772310</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1545628772310</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20665962" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12526427" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288835" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36031926" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -398,7 +400,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -484,7 +485,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -681,7 +681,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -741,14 +740,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice/testaddlist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practice/testos.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
@@ -759,8 +750,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/algoproblem/test_bytes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="540">
+          <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/testaddlist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="10" />
           <folding />
         </state>
       </provider>

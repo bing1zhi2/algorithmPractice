@@ -10,27 +10,17 @@ import java.util.Set;
  */
 public class LongestSubstringWithoutRepeat {
     public int lengthOfLongestSubstring(String s) {
-
         Map<Character, Integer> map = new HashMap<>();
-
-
         int maxLength=0;
-
-        if( !"".equals(s)){
-            for(int rightIndex =0,leftIndex=0; rightIndex < s.length();rightIndex++){
+        for(int rightIndex =0,leftIndex=0; rightIndex < s.length();rightIndex++){
                 char a = s.charAt(rightIndex);
-                System.out.println("rightIndex:"+ rightIndex +" "+ a );
 
                 if (map.containsKey(a)) {
                     leftIndex = Math.max(map.get(a), leftIndex);
                 }
-
                 maxLength =  Math.max(maxLength,rightIndex -leftIndex +1);
                 map.put(a,rightIndex+1);
-     ;
-            }
         }
-
         return maxLength;
     }
     public static int lengthOfLongestSubstring2(String s) {

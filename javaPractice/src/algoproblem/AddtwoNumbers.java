@@ -9,21 +9,21 @@ import java.util.ArrayList;
  *
  */
 
-class ListNode{
-    int val;
-    ListNode next;
-    ListNode(int val){
-        this.val=val;
-    }
-
-    @Override
-    public String toString() {
-        return "ListNode{" +
-                "val=" + val +
-                ", next=" + next +
-                '}';
-    }
-}
+//class algoproblem.ListNode{
+//    int val;
+//    algoproblem.ListNode next;
+//    algoproblem.ListNode(int val){
+//        this.val=val;
+//    }
+//
+//    @Override
+//    public String toString() {
+//        return "algoproblem.ListNode{" +
+//                "val=" + val +
+//                ", next=" + next +
+//                '}';
+//    }
+//}
 public class AddtwoNumbers {
 
 
@@ -119,7 +119,7 @@ public class AddtwoNumbers {
 
         ListNode b1 = new ListNode(5);
         ListNode b2 = new ListNode(6);
-//        ListNode b3 = new ListNode(4);
+//        algoproblem.ListNode b3 = new algoproblem.ListNode(4);
         b1.next = b2;
 //        b2.next = b3;
 

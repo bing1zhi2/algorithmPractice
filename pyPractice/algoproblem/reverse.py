@@ -29,6 +29,7 @@ class SolutionClassic(object):
 
         return "".join(r)
 
+# 使用切片进行反转 sequence[starting_index:ending_index:step]
 class SolutionPythonic(object):
     def reverseString(self, s):
         return s[::-1]

@@ -26,5 +26,5 @@ class Solution(object):
         for i in range(len(numbers)):
             res = target - numbers[i]
             if res in d:
-                return [d[res] + 1, i + 1]
+                return [d[res], i]
             d[numbers[i]] = i

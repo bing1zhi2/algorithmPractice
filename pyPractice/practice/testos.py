@@ -18,6 +18,8 @@ import sys
 #     facedir = os.path.join(path_exp, class_name)
 #     print(facedir)
 
-s_path= 'G:/dataset/train_celebrity/celebrity_mtcnnpy_182\\10000207\\1517662845,2845745492_align.png'
+s_path= 'G:/dataset/train_celebrity/a.png'
 ss=os.path.split(s_path)
-print(ss)
+ss= os.path.basename(s_path)
+bb= ss.split('.')[0]
+print(ss,bb)

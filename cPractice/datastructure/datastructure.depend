@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1562294313 source:f:\code\mycode\c\datastructer\datastructer\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1562292668 source:f:\code\mycode\c\datastructer\datastructer\removedup.c
+
+1562294433 source:f:\code\mycode\c\datastructer\datastructer\src\removedup.c
+	"removeDup.h"
+
+1562293777 f:\code\mycode\c\datastructer\datastructer\include\removedup.h
+

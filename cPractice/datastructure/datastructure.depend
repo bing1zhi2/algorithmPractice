@@ -10,3 +10,16 @@
 
 1562293777 f:\code\mycode\c\datastructer\datastructer\include\removedup.h
 
+1562836169 source:f:\code\mycode\c\datastructer\datastructure\main.c
+	<stdio.h>
+	<stdlib.h>
+	"removeDup.h"
+	"common_define.h"
+
+1562294789 f:\code\mycode\c\datastructer\datastructure\include\removedup.h
+
+1562294963 source:f:\code\mycode\c\datastructer\datastructure\src\removedup.c
+	"removeDup.h"
+
+1562835019 f:\code\mycode\c\datastructer\datastructure\include\common_define.h
+

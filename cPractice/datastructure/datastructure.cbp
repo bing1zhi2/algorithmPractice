@@ -33,11 +33,15 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="include/common_define.h" />
 		<Unit filename="include/removeDup.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="src/removeDup.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/sequence_table.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>

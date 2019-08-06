@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be28ad15-6fe0-48c3-90a2-d9076888e031" name="Default" comment="最大回文字符">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algoproblem/ListNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/algoproblem/ReverseLinkedList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algoproblem/AddtwoNumbers.java" afterPath="$PROJECT_DIR$/src/algoproblem/AddtwoNumbers.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pyPractice/practice/testaddlist.py" afterPath="$PROJECT_DIR$/../pyPractice/practice/testaddlist.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../pyPractice/practice/deal_cscs_data.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../pyPractice/practice/deal_cscs_data_dropper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../pyPractice/practice/set_learn.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../pyPractice/practice/test_re.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algoproblem/SortAlgo.java" afterPath="$PROJECT_DIR$/src/algoproblem/SortAlgo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pyPractice/fluent_python/chapter1_frenchdeck.py" afterPath="$PROJECT_DIR$/../pyPractice/fluent_python/chapter1_frenchdeck.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pyPractice/.idea/misc.xml" afterPath="$PROJECT_DIR$/../pyPractice/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pyPractice/.idea/pyPractice.iml" afterPath="$PROJECT_DIR$/../pyPractice/.idea/pyPractice.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pyPractice/practice/testos.py" afterPath="$PROJECT_DIR$/../pyPractice/practice/testos.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pyPractice/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../pyPractice/.idea/workspace.xml" />
     </list>
@@ -60,11 +65,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReverseLinkedList.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReverseLinkedList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algoproblem/ReverseLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.34102142">
-              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="22" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SortAlgo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algoproblem/SortAlgo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.332696">
+              <caret line="103" column="0" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -122,16 +137,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RemoveDuplicates.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algoproblem/RemoveDuplicates.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -165,6 +170,7 @@
         <option value="$PROJECT_DIR$/src/ListNode.java" />
         <option value="$PROJECT_DIR$/src/algoproblem/AddtwoNumbers.java" />
         <option value="$PROJECT_DIR$/src/algoproblem/ReverseLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/algoproblem/SortAlgo.java" />
       </list>
     </option>
   </component>
@@ -204,9 +210,9 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -222,20 +228,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="javaPractice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javaPractice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javaPractice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -282,7 +274,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReverseLinkedList">
+  <component name="RunManager" selected="Application.SortAlgo">
     <configuration default="false" name="NLadder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -291,26 +283,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="algoproblem.NLadder" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="javaPractice" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="AddtwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="algoproblem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="algoproblem.AddtwoNumbers" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -371,6 +343,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="algoproblem.ReverseLinkedList" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="javaPractice" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SortAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="algoproblem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="algoproblem.SortAlgo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -655,18 +647,18 @@
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.LongestSubstringWithoutRepeat" />
       <item index="1" class="java.lang.String" itemvalue="Application.NLadder" />
-      <item index="2" class="java.lang.String" itemvalue="Application.AddtwoNumbers" />
-      <item index="3" class="java.lang.String" itemvalue="Application.MaxSubSeqSum" />
-      <item index="4" class="java.lang.String" itemvalue="Application.LongestPalindrome" />
-      <item index="5" class="java.lang.String" itemvalue="Application.ReverseLinkedList" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MaxSubSeqSum" />
+      <item index="3" class="java.lang.String" itemvalue="Application.LongestPalindrome" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ReverseLinkedList" />
+      <item index="5" class="java.lang.String" itemvalue="Application.SortAlgo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ReverseLinkedList" />
-        <item index="1" class="java.lang.String" itemvalue="Application.LongestPalindrome" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MaxSubSeqSum" />
-        <item index="3" class="java.lang.String" itemvalue="Application.NLadder" />
-        <item index="4" class="java.lang.String" itemvalue="Application.AddtwoNumbers" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SortAlgo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ReverseLinkedList" />
+        <item index="2" class="java.lang.String" itemvalue="Application.LongestPalindrome" />
+        <item index="3" class="java.lang.String" itemvalue="Application.MaxSubSeqSum" />
+        <item index="4" class="java.lang.String" itemvalue="Application.NLadder" />
       </list>
     </recent_temporary>
   </component>
@@ -693,7 +685,9 @@
       <workItem from="1548052316356" duration="1458000" />
       <workItem from="1548118301356" duration="5263000" />
       <workItem from="1548381013019" duration="5964000" />
-      <workItem from="1549964317965" duration="2239000" />
+      <workItem from="1549964317965" duration="2480000" />
+      <workItem from="1551060674369" duration="260000" />
+      <workItem from="1561959583812" duration="6651000" />
     </task>
     <task id="LOCAL-00001" summary="add2numbers&#10;link list">
       <created>1541645947531</created>
@@ -725,11 +719,17 @@
       <option name="project" value="LOCAL" />
       <updated>1548396947954</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="reverse linkedlist">
+      <created>1550037295473</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1550037295473</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39275000" />
+    <option name="totallyTimeSpent" value="46427000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="0" />
@@ -743,22 +743,22 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30844155" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30844155" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17760417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17760417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39935064" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39935064" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -778,7 +778,8 @@
     <MESSAGE value="LongestSubstringWithoutRepeat" />
     <MESSAGE value="MaxsubSeqSum" />
     <MESSAGE value="最大回文字符" />
-    <option name="LAST_COMMIT_MESSAGE" value="最大回文字符" />
+    <MESSAGE value="reverse linkedlist" />
+    <option name="LAST_COMMIT_MESSAGE" value="reverse linkedlist" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -818,8 +819,14 @@
           <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algoproblem/SortAlgo.java</url>
+          <line>94</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="11" />
+      <option name="time" value="12" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -828,14 +835,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/algoproblem/ReverseInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algoproblem/ReverseString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -898,7 +897,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -956,7 +954,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1006,7 +1003,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1056,7 +1052,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1096,7 +1091,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1156,7 +1150,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1236,8 +1229,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algoproblem/ReverseLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34102142">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="22" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algoproblem/SortAlgo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.332696">
+          <caret line="103" column="0" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
           <folding />
         </state>
       </provider>

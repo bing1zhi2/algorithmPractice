@@ -2,19 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f8e37e1-9dd2-469f-a6b0-6a3cd8a2a068" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/algoproblem/Longest_palindrome_409.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algoproblem/MajorityElement_169.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algoproblem/MinimumMoves_462.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algoproblem/SingleNumber3_260.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algoproblem/base7_504.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/algoproblem/smallest_element_in_matrix_378.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/practice/andorxor.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/practice/json_test.py" />
-      <change beforePath="$PROJECT_DIR$/../javaPractice/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../javaPractice/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../cPractice/datastructure/datastructure.depend" beforeDir="false" afterPath="$PROJECT_DIR$/../cPractice/datastructure/datastructure.depend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cPractice/datastructure/datastructure.layout" beforeDir="false" afterPath="$PROJECT_DIR$/../cPractice/datastructure/datastructure.layout" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cPractice/datastructure/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../cPractice/datastructure/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cPractice/datastructure/obj/Debug/main.o" beforeDir="false" afterPath="$PROJECT_DIR$/../cPractice/datastructure/obj/Debug/main.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cPractice/datastructure/obj/Debug/src/sequence_table.o" beforeDir="false" afterPath="$PROJECT_DIR$/../cPractice/datastructure/obj/Debug/src/sequence_table.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cPractice/datastructure/src/sequence_table.c" beforeDir="false" afterPath="$PROJECT_DIR$/../cPractice/datastructure/src/sequence_table.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaPractice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pyPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pyPractice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,104 +21,80 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="json_test.py" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fluent_python/chapter1_frenchdeck.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="613">
+              <caret line="32" column="15" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algoproblem/KSmallestElement_BST_230.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algoproblem/removeDuplicates.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="9" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/practice/json_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="41" lean-forward="false" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
-              <folding />
+            <state relative-caret-position="999">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="andorxor.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practice/andorxor.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practice/str_array_slice.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practice/test_re.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="81">
+              <caret line="3" column="56" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="56" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SingleNumber3_260.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algoproblem/SingleNumber3_260.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algoproblem/PartitionEqualSubSum_416.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="972">
-              <caret line="36" column="18" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="36" selection-end-column="18" />
-              <folding />
+            <state relative-caret-position="864">
+              <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="33" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base7_504.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algoproblem/base7_504.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algoproblem/mergeTwoSortedList.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="34" selection-end-column="22" />
-              <folding />
+            <state relative-caret-position="621">
+              <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MinimumMoves_462.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algoproblem/MinimumMoves_462.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="26" column="8" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="35" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MajorityElement_169.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/algoproblem/MajorityElement_169.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Longest_palindrome_409.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algoproblem/Longest_palindrome_409.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1620">
-              <caret line="60" column="34" lean-forward="false" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="smallest_element_in_matrix_378.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algoproblem/smallest_element_in_matrix_378.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="729">
-              <caret line="27" column="8" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="46" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://D:/profession/anconda3/Lib/collections/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
-              <caret line="520" column="8" lean-forward="false" selection-start-line="520" selection-start-column="8" selection-end-line="520" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="codecs.py" pinned="false" current-in-tab="false">
-        <entry file="file://D:/profession/anconda3/Lib/codecs.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8316">
-              <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algoproblem/reconstructItinerary.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -160,37 +135,32 @@
         <option value="$PROJECT_DIR$/practice/json.py" />
         <option value="$PROJECT_DIR$/algoproblem/Longest_palindrome_409.py" />
         <option value="$PROJECT_DIR$/algoproblem/smallest_element_in_matrix_378.py" />
-        <option value="$PROJECT_DIR$/practice/json_test.py" />
         <option value="$PROJECT_DIR$/practice/andorxor.py" />
         <option value="$PROJECT_DIR$/algoproblem/SingleNumber3_260.py" />
         <option value="$PROJECT_DIR$/algoproblem/base7_504.py" />
         <option value="$PROJECT_DIR$/algoproblem/MinimumMoves_462.py" />
         <option value="$PROJECT_DIR$/algoproblem/MajorityElement_169.py" />
+        <option value="$PROJECT_DIR$/practice/str_array_slice.py" />
+        <option value="$PROJECT_DIR$/algoproblem/removeDuplicates.py" />
+        <option value="$PROJECT_DIR$/practice/json_test.py" />
+        <option value="$PROJECT_DIR$/fluent_python/chapter17_processpoolexecutor.py" />
+        <option value="$PROJECT_DIR$/fluent_python/chapter17_executor_map.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="848" />
-    <option name="y" value="68" />
-    <option name="width" value="1184" />
-    <option name="height" value="967" />
+    <option name="x" value="245" />
+    <option name="y" value="25" />
+    <option name="width" value="1185" />
+    <option name="height" value="970" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -201,7 +171,7 @@
             <path>
               <item name="pyPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="pyPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="algoproblem" type="462c0819:PsiDirectoryNode" />
+              <item name="fluent_python" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pyPractice" type="b2602c69:ProjectViewProjectNode" />
@@ -212,13 +182,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="settings.github" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../other/tensorflow/models-master" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../work/dl-ocr-classify" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -232,8 +201,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MajorityElement_169">
+  <component name="RunManager" selected="Python.chapter17_processpoolexecutor">
     <configuration name="MajorityElement_169" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -244,50 +214,38 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pyPractice" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algoproblem/MajorityElement_169.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="MinimumMoves_462" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="chapter17_processpoolexecutor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algoproblem" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fluent_python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pyPractice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algoproblem/MinimumMoves_462.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fluent_python/chapter17_executor_map.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="SingleNumber3_260" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algoproblem" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
+    <configuration name="json_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyPractice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algoproblem/SingleNumber3_260.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="andorxor" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -298,14 +256,17 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pyPractice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/andorxor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/json_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="base7_504" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="removeDuplicates" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -316,32 +277,52 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pyPractice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algoproblem/base7_504.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algoproblem/removeDuplicates.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.andorxor" />
-      <item index="1" class="java.lang.String" itemvalue="Python.SingleNumber3_260" />
-      <item index="2" class="java.lang.String" itemvalue="Python.base7_504" />
-      <item index="3" class="java.lang.String" itemvalue="Python.MinimumMoves_462" />
-      <item index="4" class="java.lang.String" itemvalue="Python.MajorityElement_169" />
+    <configuration name="str_array_slice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyPractice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/str_array_slice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.MajorityElement_169" />
+      <item itemvalue="Python.json_test" />
+      <item itemvalue="Python.removeDuplicates" />
+      <item itemvalue="Python.str_array_slice" />
+      <item itemvalue="Python.chapter17_processpoolexecutor" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.MajorityElement_169" />
-        <item index="1" class="java.lang.String" itemvalue="Python.MinimumMoves_462" />
-        <item index="2" class="java.lang.String" itemvalue="Python.base7_504" />
-        <item index="3" class="java.lang.String" itemvalue="Python.SingleNumber3_260" />
-        <item index="4" class="java.lang.String" itemvalue="Python.andorxor" />
+      <list>
+        <item itemvalue="Python.chapter17_processpoolexecutor" />
+        <item itemvalue="Python.json_test" />
+        <item itemvalue="Python.removeDuplicates" />
+        <item itemvalue="Python.str_array_slice" />
+        <item itemvalue="Python.MajorityElement_169" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -403,52 +384,63 @@
       <option name="project" value="LOCAL" />
       <updated>1552985212191</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add some practise code">
+      <created>1564126283050</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1564126283050</updated>
+    </task>
+    <task id="LOCAL-00009" summary="python concurrent future executor map">
+      <created>1564459219355</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1564459219355</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42864692" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288835" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20068415" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36055276" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1284153" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.48812094" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36055276" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3288835" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.29913607" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288835" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36031926" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22515856" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22515856" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36031926" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3288835" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Python Console" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout-to-restore>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add two numbers &#10;// 整除" />
@@ -457,7 +449,9 @@
     <MESSAGE value="reverse linkedlist" />
     <MESSAGE value="practise" />
     <MESSAGE value="week two practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="week two practice" />
+    <MESSAGE value="add some practise code" />
+    <MESSAGE value="python concurrent future executor map" />
+    <option name="LAST_COMMIT_MESSAGE" value="python concurrent future executor map" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -509,134 +503,51 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="17" />
     </breakpoint-manager>
-    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/algoproblem/add_two_numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1230">
-          <caret line="41" column="23" lean-forward="false" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/test_modulus.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practice/test_mtcnn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algoproblem/nsteps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/test_modulus.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algoproblem/add_two_numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1107">
-          <caret line="41" column="23" lean-forward="false" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algoproblem/nsteps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/test_modulus.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/test_mtcnn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1080">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
+        <state relative-caret-position="-1080" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algoproblem/learnPython.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/practice/thrity2threeHu.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/testos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/practice/testaddlist.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algoproblem/is_valid.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/algoproblem/sortalgo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
-          <caret line="15" column="8" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algoproblem/nsteps.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
-          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algoproblem/reconstructItinerary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algoproblem/reverse_int.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state>
           <folding />
         </state>
       </provider>
@@ -644,51 +555,31 @@
     <entry file="file://$PROJECT_DIR$/algoproblem/rotate_image.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1863">
-          <caret line="69" column="24" lean-forward="false" selection-start-line="69" selection-start-column="23" selection-end-line="69" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algoproblem/removeDuplicates.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <caret line="69" column="24" selection-start-line="69" selection-start-column="23" selection-end-line="69" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algoproblem/preorder_traveral.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algoproblem/mergeTwoSortedList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="24" selection-end-column="25" />
+        <state>
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algoproblem/HammingDistance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/algoproblem/reverse.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="918">
-          <caret line="34" column="22" lean-forward="false" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algoproblem/reverse_linkedlist.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
           <folding />
         </state>
       </provider>
@@ -696,7 +587,7 @@
     <entry file="file://$PROJECT_DIR$/algoproblem/add_two_numbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1107">
-          <caret line="41" column="23" lean-forward="false" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
           <folding />
         </state>
       </provider>
@@ -704,14 +595,14 @@
     <entry file="file://$PROJECT_DIR$/algoproblem/twosum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
-          <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="14" />
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algoproblem/kth_largest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1836">
-          <caret line="68" column="18" lean-forward="false" selection-start-line="68" selection-start-column="18" selection-end-line="68" selection-end-column="18" />
+          <caret line="68" column="18" selection-start-line="68" selection-start-column="18" selection-end-line="68" selection-end-column="18" />
           <folding />
         </state>
       </provider>
@@ -719,31 +610,24 @@
     <entry file="file://$PROJECT_DIR$/algoproblem/test_bytes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
-          <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/profession/anconda3/Lib/heapq.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14121">
-          <caret line="523" column="29" lean-forward="false" selection-start-line="523" selection-start-column="26" selection-end-line="523" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/profession/anconda3/Lib/heapq.py" />
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/typing.pyi">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8343">
-          <caret line="312" column="8" lean-forward="false" selection-start-line="312" selection-start-column="8" selection-end-line="312" selection-end-column="8" />
-          <folding />
+          <caret line="312" column="8" selection-start-line="312" selection-start-column="8" selection-end-line="312" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algoproblem/Top_K_Frequent.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
-          <caret line="30" column="18" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
           <folding>
-            <element signature="e#364#382#0" expanded="false" />
+            <element signature="e#364#382#0" />
           </folding>
         </state>
       </provider>
@@ -751,7 +635,7 @@
     <entry file="file://$PROJECT_DIR$/algoproblem/sort_colors.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1458">
-          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
           <folding />
         </state>
       </provider>
@@ -759,7 +643,7 @@
     <entry file="file://$PROJECT_DIR$/algoproblem/greed_cookie.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1134">
-          <caret line="42" column="29" lean-forward="false" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
+          <caret line="42" column="29" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -767,39 +651,30 @@
     <entry file="file://$PROJECT_DIR$/algoproblem/sqrt_x.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1026">
-          <caret line="38" column="21" lean-forward="false" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/542742228/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128682">
-          <caret line="4766" column="8" lean-forward="false" selection-start-line="4766" selection-start-column="8" selection-end-line="4766" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/542742228/builtins.py" />
     <entry file="file://$PROJECT_DIR$/algoproblem/diff AddParentheses_241.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1107">
-          <caret line="41" column="18" lean-forward="false" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
-          <folding />
+          <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algoproblem/intersection_linkedlist_160.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1512">
-          <caret line="56" column="8" lean-forward="false" selection-start-line="56" selection-start-column="8" selection-end-line="71" selection-end-column="19" />
-          <folding />
+          <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="71" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algoproblem/two_sum_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="729">
-          <caret line="27" column="24" lean-forward="false" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -807,7 +682,7 @@
     <entry file="file://$PROJECT_DIR$/algoproblem/validAnagram_242.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="31" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -815,47 +690,30 @@
     <entry file="file://$PROJECT_DIR$/algoproblem/myqueue_232.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="702">
-          <caret line="26" column="4" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="71" selection-end-column="24" />
+          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="71" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/profession/anconda3/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8316">
-          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/profession/anconda3/Lib/codecs.py" />
     <entry file="file://$PROJECT_DIR$/algoproblem/Longest_palindrome_409.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1620">
-          <caret line="60" column="34" lean-forward="false" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
-          <folding />
+          <caret line="60" column="34" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algoproblem/smallest_element_in_matrix_378.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="729">
-          <caret line="27" column="8" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="46" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/json_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="41" lean-forward="false" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
-          <folding />
+          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="46" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/practice/andorxor.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding />
         </state>
       </provider>
@@ -863,7 +721,7 @@
     <entry file="file://$PROJECT_DIR$/algoproblem/SingleNumber3_260.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="972">
-          <caret line="36" column="18" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="36" selection-end-column="18" />
+          <caret line="36" column="18" selection-start-line="20" selection-start-column="8" selection-end-line="36" selection-end-column="18" />
           <folding />
         </state>
       </provider>
@@ -876,29 +734,95 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/profession/anconda3/Lib/collections/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="520" column="8" lean-forward="false" selection-start-line="520" selection-start-column="8" selection-end-line="520" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/profession/anconda3/Lib/collections/__init__.py" />
     <entry file="file://$PROJECT_DIR$/algoproblem/MinimumMoves_462.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="249">
-          <caret line="26" column="8" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="35" selection-end-column="20" />
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="35" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algoproblem/MajorityElement_169.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
+        <state>
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/testos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/profession/anconda3/Lib/json/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/practice/test_modulus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fluent_python/chapter17_executor_map.py" />
+    <entry file="file://$PROJECT_DIR$/fluent_python/chapter1_frenchdeck.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="613">
+          <caret line="32" column="15" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algoproblem/KSmallestElement_BST_230.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algoproblem/removeDuplicates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/json_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="999">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/str_array_slice.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/test_re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="56" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algoproblem/PartitionEqualSubSum_416.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="33" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algoproblem/mergeTwoSortedList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algoproblem/reconstructItinerary.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

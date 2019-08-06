@@ -23,3 +23,21 @@
 
 1562835019 f:\code\mycode\c\datastructer\datastructure\include\common_define.h
 
+1562294963 source:f:\code\mycode\algorithmpractice\cpractice\datastructure\src\removedup.c
+	"removeDup.h"
+
+1562294789 f:\code\mycode\algorithmpractice\cpractice\datastructure\include\removedup.h
+
+1564483905 source:f:\code\mycode\algorithmpractice\cpractice\datastructure\main.c
+	<stdio.h>
+	<stdlib.h>
+	"removeDup.h"
+	"common_define.h"
+
+1565025551 f:\code\mycode\algorithmpractice\cpractice\datastructure\include\common_define.h
+
+1564483877 source:f:\code\mycode\algorithmpractice\cpractice\datastructure\src\sequence_table.c
+	<stdio.h>
+	<stdlib.h>
+	<common_define.h>
+

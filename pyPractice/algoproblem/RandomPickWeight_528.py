@@ -58,7 +58,7 @@ class RandomPickWeight:
         return l
 
 
-rpw = RandomPickWeight([6, 3, 1])
+rpw = RandomPickWeight([6, 0, 4])
 print(rpw)
 count0 = 0
 count1 = 0

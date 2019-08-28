@@ -5,5 +5,5 @@
 int initSLink(StaticLink *L)
 {
     L->SL=0;
-
+    return 0;
 }

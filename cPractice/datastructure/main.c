@@ -1,8 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "removeDup.h"
+//#include "removeDup.h"
 #include "common_define.h"
+
 
 
 
@@ -11,38 +12,12 @@
 int main()
 {
 
-//	 ===== 删除排序数组中多出来的元素======================
-//    testRemoveDup();
 
+//    my_sequence_main();
 
-    // 初始化顺序表
-    SqList L;
-    if(initSqlList(&L,10))
-        printf("success \n");
-    printf(" %d ", L.length+1);
-    STD std;
-    strcpy(std.name,"test");
-    std.score= 90;
+//    link_table();
+//    link_list_main();
 
-
-    int re = insertSqlList(&L,L.length+1,std);
-    if(re){
-       printf("insert success \n");
-    }
-
-    STD std2;
-    strcpy(std.name,"张三");
-    std2.score= 99;
-    insertSqlList(&L,L.length+1,std2);
-
-    std2.score= 98;
-
-
-    printfSqlList(L);
-
-    updateSqlList(&L,2,std2);
-    printfSqlList(L);
-
-
+    testMerge();
     return 0;
 }

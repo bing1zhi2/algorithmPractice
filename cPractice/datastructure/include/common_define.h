@@ -1,8 +1,8 @@
 #ifndef COMMON_DEFINE_H_INCLUDED
 #define COMMON_DEFINE_H_INCLUDED
 #define MAXSIZE 1000
-typedef int ElemType;
 
+typedef int ElemType;
 
 typedef struct{
  char name[20];

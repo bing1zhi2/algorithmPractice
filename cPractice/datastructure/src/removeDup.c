@@ -1,3 +1,4 @@
+#include<stdio.h>
 #include "removeDup.h"
 
 /**
@@ -40,7 +41,7 @@ int removeDuplicates(int* nums, int numsSize) {
 
 void testRemoveDup(){
     int nums[10] = { 0,0,1,1,1,2,2,3,3,4 };
-    int numsSize = 10;
+    //int numsSize = 10;
 	int *p = nums;
 //    for ( int i = 0; i < 10; i++ )
 //    {

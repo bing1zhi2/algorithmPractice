@@ -33,9 +33,25 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="include/DLinkTable.h" />
+		<Unit filename="include/LinkTable.h" />
+		<Unit filename="include/Person.h" />
 		<Unit filename="include/common_define.h" />
 		<Unit filename="include/removeDup.h" />
 		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/DLinkTable.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/LinkTable.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/Person.cpp" />
+		<Unit filename="src/merge_link_list.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/polynomialOfOneIndeterminate.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="src/removeDup.c">

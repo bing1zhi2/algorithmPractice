@@ -48,9 +48,11 @@ class Solution(object):
         s = l - k
         nums[:] = nums[s:] + nums[:s]
 
-    def rotate3(self,nums,k):
+    def rotate3(self, nums, k):
         """
         1, 2, 3, 4, 5, 6, 7
+        使用反转的方法
+
         reverse
         4321 765
         5671234
@@ -58,10 +60,50 @@ class Solution(object):
         :param k:
         :return:
         """
+        pass
+
+    def rotate4(self, nums, k):
+        """
+        1, 2, 3, 4, 5, 6, 7
+
+        1, 2, 3, 4, 5, 6
+
+        :param nums:
+        :param k:
+        :return:
+        """
+        l = len(nums)
+        k = k % l  # 如果k小于数组长度，则值不变。否则换算成对应的相同结果的k
+
+        start = 0
+        count = 0  # 计录移动多少数字了，全移动一次就完成了
+
+        while count < l:
+
+            current = start
+            pre_v = nums[start]
+
+            # do while  ，先do 一遍
+            nest = (current + k) % l
+            temp = nums[nest]
+            nums[nest] = pre_v
+            current = nest
+            pre_v = temp
+            count += 1
+
+            while current != start:
+                nest = (current + k) % l
+                temp = nums[nest]
+                nums[nest] = pre_v
+                current = nest
+                pre_v = temp
+                count += 1
+
+            start += 1  # 对于n%k=0 需要从+1位置开始计算一次，直到移动次数总共为数组长度才把所有的移动完成
 
 
-nums = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+nums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
 
 s = Solution()
-bbb = s.rotate2(nums, k=3)
+bbb = s.rotate4(nums, k=3)
 print(nums)

@@ -47,7 +47,7 @@ def quick_sort(arr, left, right):
     :param right:
     :return:
     """
-    if right-left <=1:
+    if right-left <= 1:
         return
     # 选择主元（基准）
     pivot = median3(arr, left, right)

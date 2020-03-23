@@ -2,10 +2,10 @@
 #include<stdlib.h>
 #include<string.h>
 
-/*  Ò»Ôª¶àÏîÊ½µÄ¼ÆËã*/
+/*  ä¸€å…ƒå¤šé¡¹å¼çš„è®¡ç®—*/
 typedef struct{
-    float coef; //ÏµÊı
-    int exp; //Ö¸Êı
+    float coef; //ç³»æ•°
+    int exp; //æŒ‡æ•°
 }Term;
 
 typedef struct

@@ -16,7 +16,7 @@ typedef struct{
 }SqList;
 
 
-/* ¾²Ì¬Á´±íÏà¹Ø */
+/* é™æ€é“¾è¡¨ç›¸å…³ */
 typedef struct{
     ElemType data;
     int next;
@@ -24,7 +24,7 @@ typedef struct{
 
 typedef struct{
     SNode sd[MAXSIZE];
-    int SL,AV;  /* Á½¸öÍ·Ö¸Õë*/
+    int SL,AV;  /* ä¸¤ä¸ªå¤´æŒ‡é’ˆ*/
     int SLinksize;
 
 }StaticLink;

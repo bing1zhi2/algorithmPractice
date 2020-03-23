@@ -3,7 +3,7 @@
 #include<string.h>
 #include "DLinkTable.h"
 
-/* Ë«Ïò±í*/
+/* åŒå‘è¡¨*/
 int initDlinkList(DLinkList *L)
 {
     * L =(DLinkList)malloc(sizeof(DNode));
@@ -25,7 +25,7 @@ int insertDLinkList(DLinkList L, int i ,STD x)
     }
     if(p->next==L&&j<i-1||j>i-1)
     {
-        printf("²åÈëÎ»ÖÃ²»ºÏÀí£¡\n");
+        printf("æ’å…¥ä½ç½®ä¸åˆç†ï¼\n");
     }
     s =(DLinkList)malloc(sizeof(DNode));
     s->data = x;
@@ -51,7 +51,7 @@ int deleteDLinkList(DLinkList L,int i,STD *x)
     }
     if(p->next==L|| j>i-1)
     {
-        printf("²åÈëÎ»ÖÃ²»ºÏÀí\n");
+        printf("æ’å…¥ä½ç½®ä¸åˆç†\n");
         return 0;
     }
     q = p->next;

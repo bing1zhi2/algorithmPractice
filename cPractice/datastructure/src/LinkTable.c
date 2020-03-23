@@ -2,22 +2,22 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
-// µ¥ÏòÁ´±í
+// å•å‘é“¾è¡¨
 
 
 
 int initLinkList(LinkList *L)
 {
-    // L Ö¸ÏòÍ·Ö¸ÕëµÄÖ¸Õë±äÁ¿ £¬£¨*L£©ÊÇÍ·Ö¸Õë
-    //ÏÂÃæÊÇ½«Í·½áµãµØÖ·¸øÍ·Ö¸Õë
+    // L æŒ‡å‘å¤´æŒ‡é’ˆçš„æŒ‡é’ˆå˜é‡ ï¼Œï¼ˆ*Lï¼‰æ˜¯å¤´æŒ‡é’ˆ
+    //ä¸‹é¢æ˜¯å°†å¤´ç»“ç‚¹åœ°å€ç»™å¤´æŒ‡é’ˆ
     *L = (LinkList)malloc(sizeof(LNode));
     if(*L ==NULL)
         return 0;
-    (*L)->next = NULL; //()ÊÇ±ØÐëµÄ
+    (*L)->next = NULL; //()æ˜¯å¿…é¡»çš„
     return 1;
 }
 
-// ´Ë´¦i´Ó1¿ªÊ¼
+// æ­¤å¤„iä»Ž1å¼€å§‹
 int insertLinkList(LinkList L,int i, STD x)
 {
     LinkList p=L,s;

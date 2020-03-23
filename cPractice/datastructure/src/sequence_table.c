@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<common_define.h>
 #include<string.h>
-// Ë³Ğò±í
+// é¡ºåºè¡¨
 
 
 int initSqlList(SqList *L, int max){
@@ -16,14 +16,14 @@ int initSqlList(SqList *L, int max){
     return 1;
 }
 
-//ºóÒÆÈÃÎ»ÖÃ £¬²åÈë£¬×¢ÒâÕâÀï´Ó1¿ªÊ¼£¬Êµ¼Ê´æ´¢ÔÚ0ÉÏ
+//åç§»è®©ä½ç½® ï¼Œæ’å…¥ï¼Œæ³¨æ„è¿™é‡Œä»1å¼€å§‹ï¼Œå®é™…å­˜å‚¨åœ¨0ä¸Š
 int insertSqlList(SqList *L,int i,STD std){
 
     if(i<1|| i> L->length+1){
         printf("pos error...");
     };
     if(L->length > L->listsize){
-        printf("ÈİÁ¿²»¹»");
+        printf("å®¹é‡ä¸å¤Ÿ");
     };
     int j;
     for(j=L->length ; j>=i; j--){
@@ -34,7 +34,7 @@ int insertSqlList(SqList *L,int i,STD std){
     return 1;
 }
 
-//É¾³ı£¬ Ç°ÒÆ
+//åˆ é™¤ï¼Œ å‰ç§»
 int deleteSqlList(SqList *L, int i, STD *std){
 
     *std = L->data[i-1];
@@ -63,7 +63,7 @@ void printfSqlList(SqList L){
 
 int my_sequence_main()
 {
-    // ³õÊ¼»¯Ë³Ğò±í
+    // åˆå§‹åŒ–é¡ºåºè¡¨
     SqList L;
     if(initSqlList(&L,10))
         printf("success \n");
@@ -79,7 +79,7 @@ int my_sequence_main()
     }
 
     STD std2;
-    strcpy(std.name,"ÕÅÈı");
+    strcpy(std.name,"å¼ ä¸‰");
     std2.score= 99;
     insertSqlList(&L,L.length+1,std2);
 

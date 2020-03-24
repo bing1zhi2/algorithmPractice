@@ -18,6 +18,10 @@ typedef struct
 
 using namespace std;
 
+/** 应用1
+ * 删除最小
+ * 
+ */
 bool deleteMin(SqlList &L, ElemType &minVal)
 {
     if (L.length <= 0)

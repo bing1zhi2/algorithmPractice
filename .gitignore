@@ -9,3 +9,4 @@
 *.o
 *.xml
 **.vscode
+rustpractice/target/*
